@@ -1,0 +1,12 @@
+name: paint
+title: paint
+username:
+account: bankrank
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2775479
+bundleId: 3612731
+url: https://bankrank.shinyapps.io/paint/
+when: 1599695523.05965
+asMultiple: FALSE
+asStatic: FALSE
